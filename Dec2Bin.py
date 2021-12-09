@@ -24,7 +24,7 @@ def binary2decimal(binary):
 
 if __name__ == '__main__':
     print('##########')
-    Dec = 11
+    Dec = 134
     print(decimal2binary(Dec))
     Bin = str('1011')
     print(binary2decimal(Bin))
