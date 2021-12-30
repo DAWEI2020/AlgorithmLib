@@ -1,7 +1,7 @@
+# AlgorithmLib
 基于Python实现的一些算法
 
-AlgorithmLib
-2021/12/06 add by wangdawei
+# 2021/12/06 add by wangdawei
 
 记录一些有用的算法实现
 
